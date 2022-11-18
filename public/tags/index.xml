@@ -4,6 +4,25 @@
     <title>Tags on Awakened Haki</title>
     <link>https://awakenedhaki.github.io/tags/</link>
     <description>Recent content in Tags on Awakened Haki</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://awakenedhaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Nov 2022 21:14:46 -0800</lastBuildDate><atom:link href="https://awakenedhaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first</title>
+      <link>https://awakenedhaki.github.io/tags/first/</link>
+      <pubDate>Thu, 17 Nov 2022 21:14:46 -0800</pubDate>
+      
+      <guid>https://awakenedhaki.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic1</title>
+      <link>https://awakenedhaki.github.io/tags/topic1/</link>
+      <pubDate>Thu, 17 Nov 2022 21:14:46 -0800</pubDate>
+      
+      <guid>https://awakenedhaki.github.io/tags/topic1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

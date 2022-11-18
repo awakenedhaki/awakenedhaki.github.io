@@ -2,7 +2,7 @@
 title: "Title"
 date: {{ .Date }}
 tags: ["first"]
-author: "Me"
+author: "Rodrigo Vallejos"
 showToc: true
 TocOpen: false
 draft: false
